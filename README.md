@@ -2,7 +2,7 @@
   Portfolio Website - v2.0<br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/" />
+  <img alt="Demo" src="./Images/degaga.png" />
 </div>
 
 <br/>
@@ -19,14 +19,14 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/DEGAGATADESSE/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/DEGAGATADESSE/Portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Degaga](https://github.com/DEGAGATADESSE/portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [DEGAGATADESSE](https://github.com/DEGAGATADESSE/portfolio). Thanks!
 
 ## Built With
 
