@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Degaga Tadesse </span>
             from <span className="purple"> Oromia, Ethiopia.</span>
             <br />
-            I am currently employed as a software developer at BHU.
+            I am currently   a software developer a.
             <br />
             <br />
             <br />
